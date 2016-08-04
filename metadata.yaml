@@ -1,0 +1,31 @@
+_repo: The-Sleuth-of-St.-James-s-Square_2861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Post, Melville Davisson
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '1055'
+    url: http://www.gutenberg.org/2009/agents/1055
+    wikipedia: http://en.wikipedia.org/wiki/Melville_Davisson_Post
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The thing on the hearth -- The reward -- The lost lady -- The cambered
+  foot -- The man in the green hat -- The wrong sign -- The fortune teller -- The
+  hole in the mahogany panel -- The end of the road -- The last adventure -- American
+  horses -- The spread rails -- The pumpkin coach -- The yellow flower -- A satire
+  of the sea -- The house by the loch.
+title: The Sleuth of St. James's Square
+url: http://www.gutenberg.org/ebooks/2861
